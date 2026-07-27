@@ -1,2 +1,2 @@
-# SQL-Data-Warehouse-Project
+# SQL Data Warehouse & Analytics Project
 Building a Data Warehouse with SQL server
